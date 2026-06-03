@@ -98,7 +98,7 @@ The dataset contains:
 
 ## Dashboard Preview
 
-https://github.com/Annozo-data/Retail-Sales-Performance-Dashboard/blob/main/Retail_Sales_Dashboard.JPG
+https://github.com/Annozo-data/Retail-Sales-Performance-Dashboard/blob/main/Retail_Sales_Dashboard.jpeg
 
 ---
 
